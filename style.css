@@ -1,0 +1,22 @@
+.sidenav {
+  width: 20%;
+  height: 100vh;
+  margin-left: 0%;
+
+  float: left;
+  background-color: #111;
+  overflow-y: scroll;
+  font-family: Helvetica;
+  color: white;
+  /* display: none; */
+  /* z-index: 1; */
+
+}
+
+ .titleText h2{
+  color: purple;
+}
+
+#sidebarTitle{
+  color: white
+}
